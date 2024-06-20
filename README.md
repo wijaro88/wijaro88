@@ -13,8 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wijaro88&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wijaro88&icon=2&color=8)](https://visitcount.itsvg.in)
